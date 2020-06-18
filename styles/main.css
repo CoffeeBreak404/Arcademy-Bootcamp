@@ -1,0 +1,12 @@
+body {
+    background-image: url('https://www.itl.cat/pngfile/big/157-1571640_21-web-backgrounds-wallpapers-images-pictures-fond-d.jpg');
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.content {
+    width: 80%;
+    margin: 10px auto;
+}
